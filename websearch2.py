@@ -148,6 +148,10 @@ table = ResultTable(['Title', 'URL', 'Description'], title=f'Search Results for:
 # y = int(sys.argv[2])
 
 
+for i in range(min(len(table), 10)):
+    print(f'actual height of row {i}: {table.get_row_height(console, i)}')
+
+# exit()
 
 
 
@@ -167,7 +171,7 @@ table = ResultTable(['Title', 'URL', 'Description'], title=f'Search Results for:
 # scrollable = MyScrollable(table, console)
 # live = Live(scrollable, auto_refresh=True, screen=True)
 
-
+scrollable:Scrollable = None
 
 
 
@@ -176,16 +180,17 @@ def handle_keypress_j(e):
     curr_idx += 1
     # scrollable.scroll_down(1)
     if curr_screen == RESLST_SCREEN:
-        table.highlight_row(curr_idx)
+        table.highlight_row(curr_idx)#+ curr_offset)
+        curr_pos_height = scrollable.get_height(scrollable.pos)
         screen_height = os.get_terminal_size()[1]
-        scrollable_height = scrollable.get_height(up_to=curr_idx)
-        log(f'screen_height: {screen_height}, scrollable_height: {scrollable_height}')
+        scrollable_height = scrollable.get_height(up_to=curr_idx)# + curr_offset)
+        log(f'screen_height: {screen_height}, scrollable_height: {scrollable_height}, curr_pos_height: {curr_pos_height}')
         if (screen_height - scrollable_height) < 3:
-            row_height = table.get_row_height(console, curr_idx)
-            scrollable.scroll(row_height)
+            row_height = table.get_row_height(console, curr_idx)# + curr_offset)
+            scrollable.scroll_down(1)
             log(f'scrollable.pos: {scrollable.pos}')
-        for i in range(curr_idx):
-            table.set_row_color(i, 'gray')
+        # for i in range(curr_idx + curr_offset):
+        #     table.set_row_color(i, 'gray')
     else:
         scrollable.scroll(1)
 
@@ -200,14 +205,15 @@ def handle_keypress_k(e):
     curr_idx -= 1
     # scrollable.scroll_up(1)
     if curr_screen == RESLST_SCREEN:
-        table.highlight_row(curr_idx)
+        table.highlight_row(curr_idx)# + curr_offset)
         screen_height = os.get_terminal_size()[1]
-        scrollable_height = scrollable.get_height(up_to=curr_idx)
+        scrollable_height = scrollable.get_height(up_to=curr_idx)# + curr_offset)
+        log(f'scrollable_height: {scrollable_height}\tscrollable.pos: {scrollable.pos}')
         if (screen_height - scrollable_height) < 3:
-            row_height = table.get_row_height(console, curr_idx)
-            scrollable.scroll_up(row_height)
-        for i in range(curr_idx+1, len(table)):
-            table.set_row_color(i, 'gray')
+            row_height = table.get_row_height(console, curr_idx)# + curr_offset)
+            scrollable.scroll_up(1)
+        # for i in range(curr_idx+1, len(table)):
+        #     table.set_row_color(i, 'gray')
 
     else:
         scrollable.scroll_up(1)
@@ -284,6 +290,7 @@ keyboard.on_press_key('enter', handle_keypress_enter, True)
 
 
 running = True
+curr_screen = RESLST_SCREEN
 
 # curl "https://api.search.brave.com/res/v1/web/search?q=artificial+intelligence" \
 #   -H "X-Subscription-Token: YOUR_API_KEY"

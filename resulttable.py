@@ -113,6 +113,7 @@ class ResultTable:
     def __init__(self, column_names:list[str], title:str='', rows:list[list[Segment]]|None=[]):
         self.column_names:list[str] = column_names
         self.grid:list[list[Text]] = []
+        self.original_styles:list[list[str]] = []
         self.segments = []
         self.title = title
         self.highlighted_row = 0
@@ -136,6 +137,8 @@ class ResultTable:
                 # grid_row.append(Segment.line())
                 self.grid.append(grid_row)
 
+        for row in self.grid:
+            self.original_styles.append([str(text.style) for text in row])
 
 
                 # if all([isinstance(x, Segment) for x in row]):
@@ -151,7 +154,7 @@ class ResultTable:
 
 
     def set_color_at(self, x: int, y: int, color: str) -> None:
-        self.grid[y][x] = Text(remove_color_tags(str(self.grid[y][x])), color)
+        self.grid[y][x] = Text(str(self.grid[y][x]), color)
         # self.grid[y][x].style = color
 
 
@@ -171,11 +174,15 @@ class ResultTable:
             self.set_color_at(x, row_idx, color)
 
     def highlight_row(self, row_idx, color='yellow'):
-        for idx, row in enumerate(self.grid):
-            if idx == row_idx:
+        log(f'Highlighting row: {row_idx}')
+        for y, row in enumerate(self.grid):
+            if y == row_idx:
                 continue
-            if all([self.get_color_at(x, idx) == color for x, entry in enumerate(row)]):
-                self.set_row_color(idx, '')
+            # if all([self.get_color_at(x, idx) == color for x, entry in enumerate(row)]):
+            for x, text in enumerate(row):
+                self.set_color_at(x, y, self.original_styles[y][x])
+
+            # self.set_row_color(y, 'gray')
         self.set_row_color(row_idx, color)
         self.highlighted_row = row_idx
 
@@ -196,10 +203,11 @@ class ResultTable:
     def get_height(self, console: Console, start=0, up_to=-1):
         table = self.get_table(start, up_to)
         lines = console.render_lines(table)
-        return len(lines)
+        header_height = 3
+        return max(len(lines) - header_height, 1)
 
     def get_row_height(self, console: Console, row_idx: int):
-        return self.get_height(console, row_idx, row_idx+1)
+        return max(self.get_height(console, row_idx, row_idx+1), 1)
 
 
     # def get_table(self):

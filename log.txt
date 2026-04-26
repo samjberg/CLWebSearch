@@ -1,507 +1,697 @@
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-screen_height: 67, scrollable_height: 7
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-screen_height: 67, scrollable_height: 10
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-screen_height: 67, scrollable_height: 13
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-screen_height: 67, scrollable_height: 15
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-screen_height: 67, scrollable_height: 20
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-screen_height: 67, scrollable_height: 22
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-screen_height: 67, scrollable_height: 23
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-screen_height: 67, scrollable_height: 24
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+Highlighting row: 1
+screen_height: 72, scrollable_height: 3, curr_pos_height: 1
+Highlighting row: 2
+screen_height: 72, scrollable_height: 6, curr_pos_height: 1
+Highlighting row: 3
+screen_height: 72, scrollable_height: 9, curr_pos_height: 1
+Highlighting row: 4
+screen_height: 72, scrollable_height: 11, curr_pos_height: 1
+Highlighting row: 5
+screen_height: 72, scrollable_height: 15, curr_pos_height: 1
+Highlighting row: 6
+screen_height: 72, scrollable_height: 17, curr_pos_height: 1
+Highlighting row: 7
+screen_height: 72, scrollable_height: 18, curr_pos_height: 1
+Highlighting row: 8
+screen_height: 72, scrollable_height: 19, curr_pos_height: 1
+Highlighting row: 9
+screen_height: 72, scrollable_height: 20, curr_pos_height: 1
+Highlighting row: 10
+screen_height: 72, scrollable_height: 23, curr_pos_height: 1
+Highlighting row: 11
+screen_height: 72, scrollable_height: 25, curr_pos_height: 1
+Highlighting row: 12
+screen_height: 72, scrollable_height: 27, curr_pos_height: 1
+Highlighting row: 13
+screen_height: 72, scrollable_height: 28, curr_pos_height: 1
+Highlighting row: 14
+screen_height: 72, scrollable_height: 30, curr_pos_height: 1
+Highlighting row: 15
+screen_height: 72, scrollable_height: 32, curr_pos_height: 1
+Highlighting row: 16
+screen_height: 72, scrollable_height: 34, curr_pos_height: 1
+Highlighting row: 17
+screen_height: 72, scrollable_height: 36, curr_pos_height: 1
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+Highlighting row: 20
+screen_height: 72, scrollable_height: 43, curr_pos_height: 1
+Highlighting row: 21
+screen_height: 72, scrollable_height: 46, curr_pos_height: 1
+Highlighting row: 22
+screen_height: 72, scrollable_height: 49, curr_pos_height: 1
+Highlighting row: 23
+screen_height: 72, scrollable_height: 52, curr_pos_height: 1
+Highlighting row: 24
+screen_height: 72, scrollable_height: 54, curr_pos_height: 1
+Highlighting row: 25
+screen_height: 72, scrollable_height: 58, curr_pos_height: 1
+Highlighting row: 26
+screen_height: 72, scrollable_height: 60, curr_pos_height: 1
+Highlighting row: 27
+screen_height: 72, scrollable_height: 61, curr_pos_height: 1
+Highlighting row: 28
+screen_height: 72, scrollable_height: 62, curr_pos_height: 1
+Highlighting row: 29
+screen_height: 72, scrollable_height: 63, curr_pos_height: 1
+Highlighting row: 30
+screen_height: 72, scrollable_height: 66, curr_pos_height: 1
+Highlighting row: 31
+screen_height: 72, scrollable_height: 68, curr_pos_height: 1
+Highlighting row: 32
+screen_height: 72, scrollable_height: 70, curr_pos_height: 1
+scrollable.pos: 6
+Highlighting row: 33
+screen_height: 72, scrollable_height: 71, curr_pos_height: 17
+scrollable.pos: 12
+Highlighting row: 34
+screen_height: 72, scrollable_height: 73, curr_pos_height: 27
+scrollable.pos: 18
+Highlighting row: 35
+screen_height: 72, scrollable_height: 75, curr_pos_height: 38
+scrollable.pos: 27
+Highlighting row: 36
+screen_height: 72, scrollable_height: 77, curr_pos_height: 61
+scrollable.pos: 31
+Highlighting row: 37
+screen_height: 72, scrollable_height: 78, curr_pos_height: 68
+scrollable.pos: 40
+Highlighting row: 38
+screen_height: 72, scrollable_height: 80, curr_pos_height: 85
+scrollable.pos: 49
+Highlighting row: 39
+screen_height: 72, scrollable_height: 82, curr_pos_height: 105
+scrollable.pos: 58
+Highlighting row: 40
+screen_height: 72, scrollable_height: 85, curr_pos_height: 122
+scrollable.pos: 67
+Highlighting row: 41
+screen_height: 72, scrollable_height: 88, curr_pos_height: 145
+scrollable.pos: 75
+Highlighting row: 42
+screen_height: 72, scrollable_height: 91, curr_pos_height: 159
+scrollable.pos: 84
+number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+Highlighting row: 1
+screen_height: 72, scrollable_height: 3, curr_pos_height: 1
+Highlighting row: 2
+screen_height: 72, scrollable_height: 6, curr_pos_height: 1
+Highlighting row: 3
+screen_height: 72, scrollable_height: 9, curr_pos_height: 1
+Highlighting row: 4
+screen_height: 72, scrollable_height: 11, curr_pos_height: 1
+Highlighting row: 5
+screen_height: 72, scrollable_height: 15, curr_pos_height: 1
+Highlighting row: 6
+screen_height: 72, scrollable_height: 17, curr_pos_height: 1
+Highlighting row: 7
+screen_height: 72, scrollable_height: 18, curr_pos_height: 1
+Highlighting row: 8
+screen_height: 72, scrollable_height: 19, curr_pos_height: 1
+Highlighting row: 9
+screen_height: 72, scrollable_height: 20, curr_pos_height: 1
+Highlighting row: 10
+screen_height: 72, scrollable_height: 23, curr_pos_height: 1
+Highlighting row: 11
+screen_height: 72, scrollable_height: 25, curr_pos_height: 1
+Highlighting row: 12
+screen_height: 72, scrollable_height: 27, curr_pos_height: 1
+Highlighting row: 13
+screen_height: 72, scrollable_height: 28, curr_pos_height: 1
+Highlighting row: 14
+screen_height: 72, scrollable_height: 30, curr_pos_height: 1
+Highlighting row: 15
+screen_height: 72, scrollable_height: 32, curr_pos_height: 1
+Highlighting row: 16
+screen_height: 72, scrollable_height: 34, curr_pos_height: 1
+Highlighting row: 17
+screen_height: 72, scrollable_height: 36, curr_pos_height: 1
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+Highlighting row: 20
+screen_height: 72, scrollable_height: 43, curr_pos_height: 1
+Highlighting row: 21
+screen_height: 72, scrollable_height: 46, curr_pos_height: 1
+Highlighting row: 22
+screen_height: 72, scrollable_height: 49, curr_pos_height: 1
+Highlighting row: 23
+screen_height: 72, scrollable_height: 52, curr_pos_height: 1
+Highlighting row: 24
+screen_height: 72, scrollable_height: 54, curr_pos_height: 1
+Highlighting row: 25
+screen_height: 72, scrollable_height: 58, curr_pos_height: 1
+Highlighting row: 26
+screen_height: 72, scrollable_height: 60, curr_pos_height: 1
+Highlighting row: 27
+screen_height: 72, scrollable_height: 61, curr_pos_height: 1
+Highlighting row: 28
+screen_height: 72, scrollable_height: 62, curr_pos_height: 1
+Highlighting row: 29
+screen_height: 72, scrollable_height: 63, curr_pos_height: 1
+Highlighting row: 30
+screen_height: 72, scrollable_height: 66, curr_pos_height: 1
+Highlighting row: 31
+screen_height: 72, scrollable_height: 68, curr_pos_height: 1
+Highlighting row: 32
+screen_height: 72, scrollable_height: 70, curr_pos_height: 1
+scrollable.pos: 3
+Highlighting row: 33
+screen_height: 72, scrollable_height: 71, curr_pos_height: 9
+scrollable.pos: 5
+Highlighting row: 34
+screen_height: 72, scrollable_height: 73, curr_pos_height: 15
+scrollable.pos: 7
+Highlighting row: 35
+screen_height: 72, scrollable_height: 75, curr_pos_height: 18
+scrollable.pos: 9
+Highlighting row: 36
+screen_height: 72, scrollable_height: 77, curr_pos_height: 20
+scrollable.pos: 12
+Highlighting row: 37
+screen_height: 72, scrollable_height: 78, curr_pos_height: 27
+scrollable.pos: 14
+Highlighting row: 38
+screen_height: 72, scrollable_height: 80, curr_pos_height: 30
+scrollable.pos: 17
+Highlighting row: 39
+screen_height: 72, scrollable_height: 82, curr_pos_height: 36
+scrollable.pos: 20
+Highlighting row: 40
+screen_height: 72, scrollable_height: 85, curr_pos_height: 43
+scrollable.pos: 23
+Highlighting row: 41
+screen_height: 72, scrollable_height: 88, curr_pos_height: 52
+scrollable.pos: 25
+Highlighting row: 42
+screen_height: 72, scrollable_height: 91, curr_pos_height: 58
+scrollable.pos: 27
+Highlighting row: 43
+screen_height: 72, scrollable_height: 94, curr_pos_height: 61
+scrollable.pos: 29
+Highlighting row: 44
+screen_height: 72, scrollable_height: 96, curr_pos_height: 63
+scrollable.pos: 32
+Highlighting row: 45
+screen_height: 72, scrollable_height: 100, curr_pos_height: 70
+scrollable.pos: 34
+Highlighting row: 44
+scrollable_height: 96	scrollable.pos: 34
+Highlighting row: 43
+scrollable_height: 94	scrollable.pos: 22
+Highlighting row: 42
+scrollable_height: 91	scrollable.pos: 16
+Highlighting row: 41
+scrollable_height: 88	scrollable.pos: 10
+Highlighting row: 40
+scrollable_height: 85	scrollable.pos: 2
+Highlighting row: 39
+scrollable_height: 82	scrollable.pos: 0
+number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+Highlighting row: 1
+screen_height: 72, scrollable_height: 3, curr_pos_height: 1
+Highlighting row: 2
+screen_height: 72, scrollable_height: 6, curr_pos_height: 1
+Highlighting row: 3
+screen_height: 72, scrollable_height: 9, curr_pos_height: 1
+Highlighting row: 4
+screen_height: 72, scrollable_height: 11, curr_pos_height: 1
+Highlighting row: 3
+scrollable_height: 9	scrollable.pos: 0
+Highlighting row: 2
+scrollable_height: 6	scrollable.pos: 0
+Highlighting row: 1
+scrollable_height: 3	scrollable.pos: 0
+Highlighting row: 0
+scrollable_height: 1	scrollable.pos: 0
+Highlighting row: 1
+screen_height: 72, scrollable_height: 3, curr_pos_height: 1
+Highlighting row: 2
+screen_height: 72, scrollable_height: 6, curr_pos_height: 1
+Highlighting row: 3
+screen_height: 72, scrollable_height: 9, curr_pos_height: 1
+Highlighting row: 4
+screen_height: 72, scrollable_height: 11, curr_pos_height: 1
+Highlighting row: 5
+screen_height: 72, scrollable_height: 15, curr_pos_height: 1
+Highlighting row: 6
+screen_height: 72, scrollable_height: 17, curr_pos_height: 1
+Highlighting row: 7
+screen_height: 72, scrollable_height: 18, curr_pos_height: 1
+Highlighting row: 8
+screen_height: 72, scrollable_height: 19, curr_pos_height: 1
+Highlighting row: 9
+screen_height: 72, scrollable_height: 20, curr_pos_height: 1
+Highlighting row: 10
+screen_height: 72, scrollable_height: 23, curr_pos_height: 1
+Highlighting row: 11
+screen_height: 72, scrollable_height: 25, curr_pos_height: 1
+Highlighting row: 12
+screen_height: 72, scrollable_height: 27, curr_pos_height: 1
+Highlighting row: 13
+screen_height: 72, scrollable_height: 28, curr_pos_height: 1
+Highlighting row: 14
+screen_height: 72, scrollable_height: 30, curr_pos_height: 1
+Highlighting row: 15
+screen_height: 72, scrollable_height: 32, curr_pos_height: 1
+Highlighting row: 16
+screen_height: 72, scrollable_height: 34, curr_pos_height: 1
+Highlighting row: 17
+screen_height: 72, scrollable_height: 36, curr_pos_height: 1
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+Highlighting row: 20
+screen_height: 72, scrollable_height: 43, curr_pos_height: 1
+Highlighting row: 21
+screen_height: 72, scrollable_height: 46, curr_pos_height: 1
+Highlighting row: 22
+screen_height: 72, scrollable_height: 49, curr_pos_height: 1
+Highlighting row: 21
+scrollable_height: 46	scrollable.pos: 0
+Highlighting row: 20
+scrollable_height: 43	scrollable.pos: 0
+Highlighting row: 19
+scrollable_height: 40	scrollable.pos: 0
+Highlighting row: 18
+scrollable_height: 38	scrollable.pos: 0
+Highlighting row: 17
+scrollable_height: 36	scrollable.pos: 0
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+Highlighting row: 20
+screen_height: 72, scrollable_height: 43, curr_pos_height: 1
+Highlighting row: 21
+screen_height: 72, scrollable_height: 46, curr_pos_height: 1
+Highlighting row: 22
+screen_height: 72, scrollable_height: 49, curr_pos_height: 1
+Highlighting row: 23
+screen_height: 72, scrollable_height: 52, curr_pos_height: 1
+Highlighting row: 24
+screen_height: 72, scrollable_height: 54, curr_pos_height: 1
+Highlighting row: 25
+screen_height: 72, scrollable_height: 58, curr_pos_height: 1
+Highlighting row: 26
+screen_height: 72, scrollable_height: 60, curr_pos_height: 1
+Highlighting row: 27
+screen_height: 72, scrollable_height: 61, curr_pos_height: 1
+Highlighting row: 28
+screen_height: 72, scrollable_height: 62, curr_pos_height: 1
+Highlighting row: 29
+screen_height: 72, scrollable_height: 63, curr_pos_height: 1
+Highlighting row: 30
+screen_height: 72, scrollable_height: 66, curr_pos_height: 1
+Highlighting row: 31
+screen_height: 72, scrollable_height: 68, curr_pos_height: 1
+Highlighting row: 32
+screen_height: 72, scrollable_height: 70, curr_pos_height: 1
+scrollable.pos: 3
+Highlighting row: 33
+screen_height: 72, scrollable_height: 71, curr_pos_height: 9
+scrollable.pos: 5
+Highlighting row: 34
+screen_height: 72, scrollable_height: 73, curr_pos_height: 15
+scrollable.pos: 7
+Highlighting row: 35
+screen_height: 72, scrollable_height: 75, curr_pos_height: 18
+scrollable.pos: 9
+Highlighting row: 36
+screen_height: 72, scrollable_height: 77, curr_pos_height: 20
+scrollable.pos: 12
+Highlighting row: 37
+screen_height: 72, scrollable_height: 78, curr_pos_height: 27
+scrollable.pos: 14
+Highlighting row: 38
+screen_height: 72, scrollable_height: 80, curr_pos_height: 30
+scrollable.pos: 17
+Highlighting row: 39
+screen_height: 72, scrollable_height: 82, curr_pos_height: 36
+scrollable.pos: 20
+Highlighting row: 40
+screen_height: 72, scrollable_height: 85, curr_pos_height: 43
+scrollable.pos: 23
+Highlighting row: 41
+screen_height: 72, scrollable_height: 88, curr_pos_height: 52
+scrollable.pos: 25
+Highlighting row: 40
+scrollable_height: 85	scrollable.pos: 25
+Highlighting row: 39
+scrollable_height: 82	scrollable.pos: 23
+Highlighting row: 38
+scrollable_height: 80	scrollable.pos: 21
+Highlighting row: 37
+scrollable_height: 78	scrollable.pos: 17
+Highlighting row: 36
+scrollable_height: 77	scrollable.pos: 14
+Highlighting row: 35
+scrollable_height: 75	scrollable.pos: 11
+Highlighting row: 34
+scrollable_height: 73	scrollable.pos: 8
+Highlighting row: 33
+scrollable_height: 71	scrollable.pos: 6
+Highlighting row: 32
+scrollable_height: 70	scrollable.pos: 4
+Highlighting row: 31
+scrollable_height: 68	scrollable.pos: 0
+Highlighting row: 30
+scrollable_height: 66	scrollable.pos: 0
+Highlighting row: 29
+scrollable_height: 63	scrollable.pos: 0
+Highlighting row: 28
+scrollable_height: 62	scrollable.pos: 0
+Highlighting row: 27
+scrollable_height: 61	scrollable.pos: 0
+Highlighting row: 26
+scrollable_height: 60	scrollable.pos: 0
+Highlighting row: 25
+scrollable_height: 58	scrollable.pos: 0
+Highlighting row: 24
+scrollable_height: 54	scrollable.pos: 0
+Highlighting row: 23
+scrollable_height: 52	scrollable.pos: 0
+Highlighting row: 22
+scrollable_height: 49	scrollable.pos: 0
+Highlighting row: 23
+screen_height: 72, scrollable_height: 52, curr_pos_height: 1
+Highlighting row: 24
+screen_height: 72, scrollable_height: 54, curr_pos_height: 1
+Highlighting row: 25
+screen_height: 72, scrollable_height: 58, curr_pos_height: 1
+Highlighting row: 26
+screen_height: 72, scrollable_height: 60, curr_pos_height: 1
+Highlighting row: 27
+screen_height: 72, scrollable_height: 61, curr_pos_height: 1
+Highlighting row: 28
+screen_height: 72, scrollable_height: 62, curr_pos_height: 1
+Highlighting row: 29
+screen_height: 72, scrollable_height: 63, curr_pos_height: 1
+Highlighting row: 30
+screen_height: 72, scrollable_height: 66, curr_pos_height: 1
+Highlighting row: 31
+screen_height: 72, scrollable_height: 68, curr_pos_height: 1
+Highlighting row: 32
+screen_height: 72, scrollable_height: 70, curr_pos_height: 1
+scrollable.pos: 3
+Highlighting row: 33
+screen_height: 72, scrollable_height: 71, curr_pos_height: 9
+scrollable.pos: 5
+Highlighting row: 34
+screen_height: 72, scrollable_height: 73, curr_pos_height: 15
+scrollable.pos: 7
+Highlighting row: 35
+screen_height: 72, scrollable_height: 75, curr_pos_height: 18
+scrollable.pos: 9
+Highlighting row: 36
+screen_height: 72, scrollable_height: 77, curr_pos_height: 20
+scrollable.pos: 12
+Highlighting row: 37
+screen_height: 72, scrollable_height: 78, curr_pos_height: 27
+scrollable.pos: 14
+Highlighting row: 38
+screen_height: 72, scrollable_height: 80, curr_pos_height: 30
+scrollable.pos: 17
+Highlighting row: 39
+screen_height: 72, scrollable_height: 82, curr_pos_height: 36
+scrollable.pos: 20
+Highlighting row: 40
+screen_height: 72, scrollable_height: 85, curr_pos_height: 43
+scrollable.pos: 23
+Highlighting row: 39
+scrollable_height: 82	scrollable.pos: 23
+Highlighting row: 38
+scrollable_height: 80	scrollable.pos: 21
+in handle_keypress_enter.  row[1]:https://houseofyumm.com/mexican-abc-soup/
 in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+Highlighting row: 1
+screen_height: 72, scrollable_height: 3, curr_pos_height: 1
+Highlighting row: 2
+screen_height: 72, scrollable_height: 6, curr_pos_height: 1
+Highlighting row: 3
+screen_height: 72, scrollable_height: 9, curr_pos_height: 1
+Highlighting row: 4
+screen_height: 72, scrollable_height: 11, curr_pos_height: 1
+Highlighting row: 5
+screen_height: 72, scrollable_height: 15, curr_pos_height: 1
+Highlighting row: 6
+screen_height: 72, scrollable_height: 17, curr_pos_height: 1
+Highlighting row: 7
+screen_height: 72, scrollable_height: 18, curr_pos_height: 1
+Highlighting row: 8
+screen_height: 72, scrollable_height: 19, curr_pos_height: 1
+Highlighting row: 9
+screen_height: 72, scrollable_height: 20, curr_pos_height: 1
+Highlighting row: 10
+screen_height: 72, scrollable_height: 23, curr_pos_height: 1
+Highlighting row: 11
+screen_height: 72, scrollable_height: 25, curr_pos_height: 1
+Highlighting row: 12
+screen_height: 72, scrollable_height: 27, curr_pos_height: 1
+Highlighting row: 13
+screen_height: 72, scrollable_height: 28, curr_pos_height: 1
+Highlighting row: 14
+screen_height: 72, scrollable_height: 30, curr_pos_height: 1
+Highlighting row: 15
+screen_height: 72, scrollable_height: 32, curr_pos_height: 1
+Highlighting row: 16
+screen_height: 72, scrollable_height: 34, curr_pos_height: 1
+Highlighting row: 17
+screen_height: 72, scrollable_height: 36, curr_pos_height: 1
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+Highlighting row: 20
+screen_height: 72, scrollable_height: 43, curr_pos_height: 1
+Highlighting row: 21
+screen_height: 72, scrollable_height: 46, curr_pos_height: 1
+Highlighting row: 22
+screen_height: 72, scrollable_height: 49, curr_pos_height: 1
+Highlighting row: 23
+screen_height: 72, scrollable_height: 52, curr_pos_height: 1
+Highlighting row: 24
+screen_height: 72, scrollable_height: 54, curr_pos_height: 1
+Highlighting row: 25
+screen_height: 72, scrollable_height: 58, curr_pos_height: 1
+Highlighting row: 26
+screen_height: 72, scrollable_height: 60, curr_pos_height: 1
+Highlighting row: 27
+screen_height: 72, scrollable_height: 61, curr_pos_height: 1
+Highlighting row: 28
+screen_height: 72, scrollable_height: 62, curr_pos_height: 1
+Highlighting row: 29
+screen_height: 72, scrollable_height: 63, curr_pos_height: 1
+Highlighting row: 30
+screen_height: 72, scrollable_height: 66, curr_pos_height: 1
+Highlighting row: 31
+screen_height: 72, scrollable_height: 68, curr_pos_height: 1
+Highlighting row: 32
+screen_height: 72, scrollable_height: 70, curr_pos_height: 1
+scrollable.pos: 3
+Highlighting row: 33
+screen_height: 72, scrollable_height: 71, curr_pos_height: 9
+scrollable.pos: 5
+Highlighting row: 34
+screen_height: 72, scrollable_height: 73, curr_pos_height: 15
+scrollable.pos: 7
+Highlighting row: 35
+screen_height: 72, scrollable_height: 75, curr_pos_height: 18
+scrollable.pos: 9
+Highlighting row: 36
+screen_height: 72, scrollable_height: 77, curr_pos_height: 20
+scrollable.pos: 12
+Highlighting row: 37
+screen_height: 72, scrollable_height: 78, curr_pos_height: 27
+scrollable.pos: 14
+Highlighting row: 38
+screen_height: 72, scrollable_height: 80, curr_pos_height: 30
+scrollable.pos: 17
+Highlighting row: 39
+screen_height: 72, scrollable_height: 82, curr_pos_height: 36
+scrollable.pos: 20
+Highlighting row: 40
+screen_height: 72, scrollable_height: 85, curr_pos_height: 43
+scrollable.pos: 23
+Highlighting row: 41
+screen_height: 72, scrollable_height: 88, curr_pos_height: 52
+scrollable.pos: 25
+Highlighting row: 42
+screen_height: 72, scrollable_height: 91, curr_pos_height: 58
+scrollable.pos: 27
+Highlighting row: 43
+screen_height: 72, scrollable_height: 94, curr_pos_height: 61
+scrollable.pos: 29
+Highlighting row: 44
+screen_height: 72, scrollable_height: 96, curr_pos_height: 63
+scrollable.pos: 32
+Highlighting row: 45
+screen_height: 72, scrollable_height: 100, curr_pos_height: 70
+scrollable.pos: 34
+Highlighting row: 46
+screen_height: 72, scrollable_height: 102, curr_pos_height: 73
+scrollable.pos: 37
+Highlighting row: 47
+screen_height: 72, scrollable_height: 103, curr_pos_height: 78
+scrollable.pos: 40
+Highlighting row: 48
+screen_height: 72, scrollable_height: 104, curr_pos_height: 85
+scrollable.pos: 43
+Highlighting row: 49
+screen_height: 72, scrollable_height: 105, curr_pos_height: 94
+scrollable.pos: 45
+Highlighting row: 50
+screen_height: 72, scrollable_height: 108, curr_pos_height: 100
+scrollable.pos: 47
+Highlighting row: 51
+screen_height: 72, scrollable_height: 110, curr_pos_height: 103
+scrollable.pos: 49
+Highlighting row: 52
+screen_height: 72, scrollable_height: 112, curr_pos_height: 105
+scrollable.pos: 52
+Highlighting row: 53
+screen_height: 72, scrollable_height: 113, curr_pos_height: 112
+scrollable.pos: 54
+Highlighting row: 54
+screen_height: 72, scrollable_height: 115, curr_pos_height: 115
+scrollable.pos: 57
+Highlighting row: 55
+screen_height: 72, scrollable_height: 117, curr_pos_height: 120
+scrollable.pos: 60
+Highlighting row: 56
+screen_height: 72, scrollable_height: 119, curr_pos_height: 127
+scrollable.pos: 63
+Highlighting row: 57
+screen_height: 72, scrollable_height: 120, curr_pos_height: 136
+scrollable.pos: 65
+Highlighting row: 56
+scrollable_height: 119	scrollable.pos: 65
+Highlighting row: 55
+scrollable_height: 117	scrollable.pos: 63
+Highlighting row: 54
+scrollable_height: 115	scrollable.pos: 61
+Highlighting row: 53
+scrollable_height: 113	scrollable.pos: 57
+Highlighting row: 54
+screen_height: 72, scrollable_height: 115, curr_pos_height: 115
+scrollable.pos: 57
+Highlighting row: 55
+screen_height: 72, scrollable_height: 117, curr_pos_height: 120
+scrollable.pos: 60
+Highlighting row: 56
+screen_height: 72, scrollable_height: 119, curr_pos_height: 127
+scrollable.pos: 63
+Highlighting row: 57
+screen_height: 72, scrollable_height: 120, curr_pos_height: 136
+scrollable.pos: 65
+Highlighting row: 58
+screen_height: 72, scrollable_height: 122, curr_pos_height: 142
+scrollable.pos: 67
+Highlighting row: 57
+scrollable_height: 120	scrollable.pos: 67
+Highlighting row: 56
+scrollable_height: 119	scrollable.pos: 65
+Highlighting row: 55
+scrollable_height: 117	scrollable.pos: 63
+Highlighting row: 54
+scrollable_height: 115	scrollable.pos: 61
+Highlighting row: 53
+scrollable_height: 113	scrollable.pos: 57
+Highlighting row: 52
+scrollable_height: 112	scrollable.pos: 54
+Highlighting row: 51
+scrollable_height: 110	scrollable.pos: 51
+Highlighting row: 50
+scrollable_height: 108	scrollable.pos: 48
+Highlighting row: 49
+scrollable_height: 105	scrollable.pos: 46
+Highlighting row: 48
+scrollable_height: 104	scrollable.pos: 44
+Highlighting row: 49
+screen_height: 72, scrollable_height: 105, curr_pos_height: 85
+scrollable.pos: 43
+Highlighting row: 48
+scrollable_height: 104	scrollable.pos: 43
+Highlighting row: 47
+scrollable_height: 103	scrollable.pos: 41
+Highlighting row: 46
+scrollable_height: 102	scrollable.pos: 37
+Highlighting row: 45
+scrollable_height: 100	scrollable.pos: 34
+Highlighting row: 44
+scrollable_height: 96	scrollable.pos: 31
+Highlighting row: 43
+scrollable_height: 94	scrollable.pos: 28
+Highlighting row: 42
+scrollable_height: 91	scrollable.pos: 26
+Highlighting row: 41
+scrollable_height: 88	scrollable.pos: 24
+Highlighting row: 40
+scrollable_height: 85	scrollable.pos: 20
+Highlighting row: 39
+scrollable_height: 82	scrollable.pos: 17
+Highlighting row: 38
+scrollable_height: 80	scrollable.pos: 14
+Highlighting row: 37
+scrollable_height: 78	scrollable.pos: 11
+Highlighting row: 36
+scrollable_height: 77	scrollable.pos: 8
+Highlighting row: 35
+scrollable_height: 75	scrollable.pos: 6
+Highlighting row: 34
+scrollable_height: 73	scrollable.pos: 4
+Highlighting row: 33
+scrollable_height: 71	scrollable.pos: 0
+Highlighting row: 32
+scrollable_height: 70	scrollable.pos: 0
+Highlighting row: 31
+scrollable_height: 68	scrollable.pos: 0
+Highlighting row: 30
+scrollable_height: 66	scrollable.pos: 0
+Highlighting row: 29
+scrollable_height: 63	scrollable.pos: 0
+Highlighting row: 28
+scrollable_height: 62	scrollable.pos: 0
+Highlighting row: 27
+scrollable_height: 61	scrollable.pos: 0
+Highlighting row: 26
+scrollable_height: 60	scrollable.pos: 0
+Highlighting row: 25
+scrollable_height: 58	scrollable.pos: 0
+Highlighting row: 24
+scrollable_height: 54	scrollable.pos: 0
+Highlighting row: 23
+scrollable_height: 52	scrollable.pos: 0
+Highlighting row: 22
+scrollable_height: 49	scrollable.pos: 0
+Highlighting row: 21
+scrollable_height: 46	scrollable.pos: 0
+Highlighting row: 20
+scrollable_height: 43	scrollable.pos: 0
+Highlighting row: 19
+scrollable_height: 40	scrollable.pos: 0
+Highlighting row: 18
+scrollable_height: 38	scrollable.pos: 0
+Highlighting row: 17
+scrollable_height: 36	scrollable.pos: 0
+Highlighting row: 18
+screen_height: 72, scrollable_height: 38, curr_pos_height: 1
+Highlighting row: 19
+screen_height: 72, scrollable_height: 40, curr_pos_height: 1
+in handle_keypress_enter.  row[1]:https://ushistory.org/us/49e.asp
 in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
-in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
-in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
-in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
-in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
-in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
-in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
-in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
-in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-screen_height: 67, scrollable_height: 15
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-screen_height: 67, scrollable_height: 20
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in open_site.  row[1]:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-screen_height: 67, scrollable_height: 22
-in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
-in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
-in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
-in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
-in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
-in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
-in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
-in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
-in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
-in remove_color_tags, s:Alphabet Soup | The Cozy Apron
-in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
-in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
-in remove_color_tags, s:Alphabet Soup - Pati Jinich
-in remove_color_tags, s:https://patijinich.com/alphabet-soup/
-in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
-in remove_color_tags, s:Alphabet Soup Recipe
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
-in remove_color_tags, s:Alphabet Soup
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
-in remove_color_tags, s:Alphabet Soup - Weelicious
-in remove_color_tags, s:https://weelicious.com/alphabet-soup/
-in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
-in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
-in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
-in remove_color_tags, s:Alphabet soup - Wikipedia
-in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
-in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
-in remove_color_tags, s:Tomato Alphabet Soup  Kveller
-in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
-in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
-in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
-in remove_color_tags, s:Alphabet Soup - Brita Cooks
-in remove_color_tags, s:https://britacooks.com/alphabet-soup/
-in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
-in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
-in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
-in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
-in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
-in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
-in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
-in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
-in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
-in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
-in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
-in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
-in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
-in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
-in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
-in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
-in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
-in remove_color_tags, s:https://ushistory.org/us/49e.asp
-in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
-Reached the end of the with live block
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-scrolling 1scrolling 1scrolling -5scrolling -5number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-in handle_keypress_enter.  row[1]:https://www.amys.com/our-foods/organic-alphabet-soup
-in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-number of \r's in btext: 0
-number of \r's in btext: 0
-number of \r's in btext: 0
-number of \r's in btext: 0
-number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-in handle_keypress_enter.  row[1]:https://www.thereciperebel.com/easy-alphabet-soup/
-in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-in handle_keypress_enter.  row[1]:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
-number of \r's in btext: 0
-Creating scrollable with: 600 total segments
-in handle_keypress_enter.  row[1]:https://www.spendwithpennies.com/easy-alphabet-soup/
-in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1

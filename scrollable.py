@@ -103,6 +103,9 @@ class Scrollable:
         return lines
 
     def get_height(self, up_to:int = -1) -> int:
+        if isinstance(self.val, ResultTable):
+            return self.val.get_height(self.console, 0, up_to)
+
         if self.height != -1:
             return self.height
         if up_to == -1:
@@ -143,7 +146,7 @@ class Scrollable:
     def scroll(self, n: int):
         num_lines_terminal = os.get_terminal_size()[1]
         if isinstance(self.val, ResultTable):
-            row_height = self.val.get_row_height(self.console, self.pos)
+            row_height = max(self.val.get_row_height(self.console, self.pos), 1)
             num_lines = len(self.val)
             max_idx = num_lines - num_lines_terminal
             self.pos = max(min(self.pos + (n * row_height), max_idx), 0)
