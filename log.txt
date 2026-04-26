@@ -1,25 +1,507 @@
-in open_site.  row[1]:[yellow][blue]https://en.wikipedia.org/wiki/France
-in remove_color_tags while loop.  s:[blue]https://en.wikipedia.org/wiki/France
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+screen_height: 67, scrollable_height: 7
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+screen_height: 67, scrollable_height: 10
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+screen_height: 67, scrollable_height: 13
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+screen_height: 67, scrollable_height: 15
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+screen_height: 67, scrollable_height: 20
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+screen_height: 67, scrollable_height: 22
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+screen_height: 67, scrollable_height: 23
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+screen_height: 67, scrollable_height: 24
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+screen_height: 67, scrollable_height: 15
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+screen_height: 67, scrollable_height: 20
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in open_site.  row[1]:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+screen_height: 67, scrollable_height: 22
+in remove_color_tags, s:Homemade Alphabet Vegetable Soup - Sally's Baking
+in remove_color_tags, s:https://sallysbakingaddiction.com/alphabet-vegetable-soup/
+in remove_color_tags, s:I bought alphabet pasta online (affiliate link), but later realized its common in most major grocery stores. If you cant find alphabet pasta or dont want to buy it online, use any small shaped pasta. You need about 1 cup dry. By the way, frozen veggies make the soup even easier.
+in remove_color_tags, s:How to make Homemade Alphabet Soup Recipe (30 minute recipe)
+in remove_color_tags, s:https://braziliankitchenabroad.com/alphabet-soup-recipe/
+in remove_color_tags, s:Alphabet pastaI have found this at grocery stores, Latin markets, and even at CVS, which is where I first spotted it. Turns out, they also sell it online! Olive oilor another neutral-tasting oil. Carrot, onion, and celerythis is mirepoix, which serves as the aromatic base of this soup recipe.
+in remove_color_tags, s:Alphabet Soup (43 cents/cup) - Good Cheap Eats
+in remove_color_tags, s:https://goodcheapeats.com/alphabet-soup/
+in remove_color_tags, s:Turns out this is a deliciously affordable vegetable soup that my whole family can enjoy. This is a perfect red can copycat. It took a little tweaking, but this alphabet vegetable soup tastes just like that Alphabet Soup of yore, only its got all real ingredients and no funny business.
+in remove_color_tags, s:Alphabet Soup | The Cozy Apron
+in remove_color_tags, s:https://thecozyapron.com/alphabet-soup/
+in remove_color_tags, s:This <strong>alphabet soup</strong> brimming with chicken and veggies in a rich broth is a deliciously comfy-cozy little taste of childhood in a bowl!
+in remove_color_tags, s:Alphabet Soup - Pati Jinich
+in remove_color_tags, s:https://patijinich.com/alphabet-soup/
+in remove_color_tags, s:Can this soup be frozen into individual servings or will the noodles be mushy when thawed? ... I would say it lasts 3 to 4 days in the fridge; I would not freeze it, it does not work very well  ... Im going back in to work now and then Im going back home to do a little shopping and I can get the kids ready and then Ill go back to work and get some food. ... My preschool-aged daughter asked me to make alphabet pasta in orange soup thats not clear that is served for lunch at her school.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Amy's Kitchen - Amy's Organic Alphabet Soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:Kids love eating their alphabet, especially in this flavorful soup of <strong>sweet tomato broth, tender veggies and semolina flour pasta letters</strong>.
+in remove_color_tags, s:Alphabet Soup Recipe
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:A quick-and-easy <strong>alphabet soup</strong> made with ground round and spicy vegetable juice cocktail.
+in remove_color_tags, s:Alphabet Soup
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:Alphabet noodles simmer with fresh veggies, broth, and tasty seasonings to make a warm and savory soup everyone loves.
+in remove_color_tags, s:Alphabet Soup - Weelicious
+in remove_color_tags, s:https://weelicious.com/alphabet-soup/
+in remove_color_tags, s:This healthy, homemade Alphabet Soup is easy to make, veggie filled, freezes beautifully and is the perfect meal on a cold winter night.
+in remove_color_tags, s:Alphabet soup (linguistics) - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup_(linguistics)
+in remove_color_tags, s:Alphabet soup is <strong>a metaphor for an abundance of abbreviations or acronyms, named for a common dish made from alphabet pasta</strong>. Its use dates at least as far back as Franklin D. Roosevelt&#x27;s alphabet agencies of the New Deal. In the United States, the federal government is described as an alphabet ...
+in remove_color_tags, s:Alphabet soup - Wikipedia
+in remove_color_tags, s:https://en.wikipedia.org/wiki/Alphabet_soup
+in remove_color_tags, s:Look up <strong>alphabet soup</strong> in Wiktionary, the free dictionary. ... Alphabet agencies, created as part of former U.S. president Franklin Roosevelt&#x27;s New Deal
+in remove_color_tags, s:Tomato Alphabet Soup  Kveller
+in remove_color_tags, s:https://www.kveller.com/article/tomato-alphabet-soup/
+in remove_color_tags, s:Both kids and adults will love this healthy, creamy <strong>tomato soup</strong> with a spoonful of playful alphabet letters. Serve this <strong>tomato soup</strong> all on its own, or with classic grilled cheese.
+in remove_color_tags, s:Easy Alphabet Soup - The Recipe Rebel
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:Easy Alphabet Soup is full of vegetables &amp; alphabet noodles in a rich &amp; flavorful tomato broth! It&#x27;s perfect for easy lunches!
+in remove_color_tags, s:Alphabet Soup - Brita Cooks
+in remove_color_tags, s:https://britacooks.com/alphabet-soup/
+in remove_color_tags, s:<strong>A nostalgic cross between spaghettios, alphabet soup, and cozy Italian pastina</strong>. You can use any small pasta of your choice in this comforting and flavourful veggie broth and finish with a drizzle of olive oil.
+in remove_color_tags, s:You Only Need 30 Minutes to Make Alphabet Soup
+in remove_color_tags, s:https://www.thekitchn.com/alphabet-soup-recipe-23411732
+in remove_color_tags, s:So pull out your Dutch oven and lets get cooking. ... Alphabet soup <strong>comes together with a few basic vegetables, dried alphabet pasta, and some readily available pantry ingredients</strong>.
+in remove_color_tags, s:Homemade Alphabet Soup Recipe - Food with Feeling
+in remove_color_tags, s:https://foodwithfeeling.com/alphabet-soup/
+in remove_color_tags, s:This Vegetable Alphabet Soup is QUICK and EASY to throw together with the option of using fresh OR frozen vegetables. It&#x27;s great from cold weather dinners and something kids will love!
+in remove_color_tags, s:Alphabet Soup - Dinner at the Zoo
+in remove_color_tags, s:https://www.dinneratthezoo.com/alphabet-soup-with-meatballs/
+in remove_color_tags, s:This recipe for <strong>alphabet soup</strong> is full of ground beef, vegetables and tender pasta, all simmered in a hearty tomato broth.
+in remove_color_tags, s:Alphabet Soup - Post Punk Kitchen
+in remove_color_tags, s:https://www.theppk.com/2011/11/alphabet-soup/
+in remove_color_tags, s:But still! This is homemade <strong>alphabet soup</strong>, the kind Andy Warhol might make a painting of. The kind that you used to spell out your name and the name of your cats with when you were a kid. The kind my mom used to put in an omelet!
+in remove_color_tags, s:Mexican Alphabet Soup (Sopa De Letras) - House of Yumm
+in remove_color_tags, s:https://houseofyumm.com/mexican-abc-soup/
+in remove_color_tags, s:Can use any pasta, we use the alphabet pasta which can be found in most hispanic food aisles at the grocery store. Fry the pasta in oil prior to making the soup, keep stirring until the pasta turns slightly golden.
+in remove_color_tags, s:FDR's Alphabet Soup [ushistory.org]
+in remove_color_tags, s:https://ushistory.org/us/49e.asp
+in remove_color_tags, s:Tennessee Valley Authority: Electricity For All Perhaps Roosevelt&#x27;s most significant &quot;Alphabet Soup&quot; creation was the Tennessee Valley Authority designed to electrify rural America by harnessing natural resources. It took more than just flipping a switch somewhere!
 Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://www.reddit.com/r/explainlikeimfive/comments/6nt7kv/eli5_how_does_the_fast_fourier_transform_work/
-in remove_color_tags while loop.  s:[blue]https://www.reddit.com/r/explainlikeimfive/comments/6nt7kv/eli5_how_does_the_fast_fourier_transform_work/
-Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://en.wikipedia.org/wiki/List_of_capitals_of_France
-in remove_color_tags while loop.  s:[blue]https://en.wikipedia.org/wiki/List_of_capitals_of_France
-Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://www.britannica.com/place/Paris
-in remove_color_tags while loop.  s:[blue]https://www.britannica.com/place/Paris
-Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://stackoverflow.com/questions/66355239/vertical-overflow-of-table-in-live-display-should-scroll-the-content
-in remove_color_tags while loop.  s:[blue]https://stackoverflow.com/questions/66355239/vertical-overflow-of-table-in-live-display-should-scroll-the-content
-Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://stackoverflow.com/questions/76802944/want-rich-live-display-to-print-everything-live-without-overflowing-or-ellipsis
-in remove_color_tags while loop.  s:[blue]https://stackoverflow.com/questions/76802944/want-rich-live-display-to-print-everything-live-without-overflowing-or-ellipsis
-Reached the end of the with live block
-in open_site.  row[1]:[yellow][blue]https://github.com/Textualize/rich/issues/2120
-in remove_color_tags while loop.  s:[blue]https://github.com/Textualize/rich/issues/2120
-Reached the end of the with live block
-scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5scrolling -5scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1in open_site.  row[1]:[yellow][blue]https://github.com/Textualize/rich/discussions/1720
-in remove_color_tags while loop.  s:[blue]https://github.com/Textualize/rich/discussions/1720
-Reached the end of the with live block
-scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1scrolling -1
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5scrolling -5scrolling -5scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+scrolling 1scrolling 1scrolling -5scrolling -5number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+in handle_keypress_enter.  row[1]:https://www.amys.com/our-foods/organic-alphabet-soup
+in remove_color_tags, s:https://www.amys.com/our-foods/organic-alphabet-soup
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -5scrolling -5number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+number of \r's in btext: 0
+number of \r's in btext: 0
+number of \r's in btext: 0
+number of \r's in btext: 0
+number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+in handle_keypress_enter.  row[1]:https://www.thereciperebel.com/easy-alphabet-soup/
+in remove_color_tags, s:https://www.thereciperebel.com/easy-alphabet-soup/
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+in handle_keypress_enter.  row[1]:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+in remove_color_tags, s:https://www.allrecipes.com/recipe/53493/alphabet-soup/
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1number of \r's in btext: 0
+number of \r's in btext: 0
+Creating scrollable with: 600 total segments
+in handle_keypress_enter.  row[1]:https://www.spendwithpennies.com/easy-alphabet-soup/
+in remove_color_tags, s:https://www.spendwithpennies.com/easy-alphabet-soup/
+scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1scrolling -1scrolling -1scrolling -1scrolling 1scrolling 1scrolling 1scrolling 1scrolling 1

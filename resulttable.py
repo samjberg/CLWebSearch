@@ -1,102 +1,262 @@
-from rich.console import RenderableType
+from rich.repr import Result
 from rich.table import Table
+from rich.segment import Segment
+from rich.console import Console, ConsoleOptions, RenderableType
+from rich.text import Text
+from rich.style import Style
 from rich.color import ANSI_COLOR_NAMES as COLOR_DICT
 from typing import Union
 from entry import Entry
+from os import get_terminal_size
+from logger import log
+from renderedpage import RenderedPage
 
-Renderable = Union[str, list[str]]
+
+
+def remove_color_tags(s: str):
+    if isinstance(s, Entry):
+        entry = s
+        s = entry.text
+        if not s:
+            return entry
+        while s.startswith('['):
+            log(f'in remove_color_tags while loop.  s:{s}')
+            end_idx = s.find(']')
+            if end_idx == -1:
+                return s
+            s = s[end_idx+1:]
+        return s
+    else:
+        log(f'in remove_color_tags, s:{s}')
+        if not s:
+            log(f'in "if not s" block in remove_color_tags.  s:{s}')
+            return s
+        while s.startswith('['):
+            log(f'in remove_color_tags while loop.  s:{s}')
+            end_idx = s.find(']')
+            if end_idx == -1:
+                return s
+            s = s[end_idx+1:]
+        return s
+
+
+
+
+def get_colors_in_style(style: str):
+    words = style.split(' ')
+    colors = []
+    for word in words:
+        if word in COLOR_NAMES:
+            colors.append(word)
+    return colors
+
+class Pos:
+    def __init__(self, x: int, y: int):
+        self.x = x
+        self.y = y
+
+    def __add__(self, other):
+        if isinstance(other, Pos):
+            return Pos(self.x + other.x, self.y + other.y)
+        elif isinstance(other, tuple):
+            if len(other) == 2:
+                return Pos(self.x + other[0], self.y + other[1])
+            else:
+                raise ValueError(f'Error, tuples can be added to Pos\'s, but must be length 2.  Got length: {len(other)}')
+        else:
+            raise TypeError(f'Error, can only add Pos or length 2 tuple to Pos.  Got: {type(other)}')
+
+
+    def __sub__(self, other):
+        if isinstance(other, Pos):
+            return Pos(self.x - other.x, self.y - other.y)
+        elif isinstance(other, tuple):
+            if len(other) == 2:
+                return Pos(self.x - other[0], self.y - other[1])
+            else:
+                raise ValueError(f'Error, tuples can be added to Pos\'s, but must be length 2.  Got length: {len(other)}')
+        else:
+            raise TypeError(f'Error, can only add Pos or length 2 tuple to Pos.  Got: {type(other)}')
+
+
+
+    def __getitem__(self, idx: int):
+        if idx == 0 or idx == 'x':
+            return self.x
+        elif idx == 1 or idx == 'y':
+            return self.y
+        raise IndexError('Error, index out of bounds')
+
+    def __setitem__(self, idx: int, val: int):
+        if idx == 0 or idx == 'x':
+            self.x = val
+        elif idx == 1 or idx == 'y':
+            self.y = val
+        raise IndexError('Error, index out of bounds')
+
+    def __str__(self):
+        return f'({self.x}, {self.y})'
+
+    def __repr__(self):
+        return f'({self.x}, {self.y})'
+
+    def __rich_console__(self, console: Console, options: ConsoleOptions):
+        return f'({self.x}, {self.y})'
+
 
 COLOR_NAMES = list(COLOR_DICT.keys())
-
-#it IS allowed to mix both basic strings and string tuples within a single list, to give color to only certain entries
-def create_row(basic_row, default_color='') -> list:
-    row = []
-    for entry in basic_row:
-        if isinstance(entry, str):
-            row.append(Entry(entry, default_color))
-        elif isinstance(entry, tuple):
-            if len(entry) == 2:
-                text, color = entry
-                row.append(Entry(text, color))
-            else:
-                row.append(Entry(entry[0], default_color))
-        else:
-            raise TypeError(f'Error, entry: {entry} in basic_row has invalid type: {type(entry)}.  Must be str or tuple')
-    return row
-
-
 
 
 
 
 class ResultTable:
-    def __init__(self, column_names:list[str], title:str='', rows:list[list[Entry]]|None=[]):
+    def __init__(self, column_names:list[str], title:str='', rows:list[list[Segment]]|None=[]):
         self.column_names:list[str] = column_names
-        self._table = []
+        self.grid:list[list[Text]] = []
+        self.segments = []
         self.title = title
         self.highlighted_row = 0
 
         # self.columns = self.table.columns
         if rows:
             for row in rows:
-                if all([isinstance(x, Entry) for x in row]):
-                    self._table.append(row)
-                else:
-                    row = [entry if isinstance(entry, Entry) else Entry(entry) for entry in row]
-                    self._table.append(row)
+                grid_row = []
+                for seg in row:
+                    if isinstance(seg, Segment):
+                        s = seg.text
+                        style = seg.style if seg.style else ''
+                        text_seg = Text(seg.text, style)
+                        grid_row.append(text_seg)
+                    elif isinstance(seg, Text):
+                        grid_row.append(seg)
+                    elif isinstance(seg, str):
+                        grid_row.append(Text(seg))
+                    else:
+                        raise TypeError(f'Error, each individual element of rows must be Text|str|Segment, got: {type(seg)}')
+                # grid_row.append(Segment.line())
+                self.grid.append(grid_row)
+
+
+
+                # if all([isinstance(x, Segment) for x in row]):
+                #     self.grid.append(row)
+                # else:
+                #     row = [seg if isinstance(seg, Segment) else Segment(seg) for seg in row]
+                #     self.grid.append(row)
+
+    def get_color_at(self, x: int, y: int) -> list[str]:
+        text = self.grid[y][x]
+        style = str(text.style)
+        return get_colors_in_style(style)
+
+
+    def set_color_at(self, x: int, y: int, color: str) -> None:
+        self.grid[y][x] = Text(remove_color_tags(str(self.grid[y][x])), color)
+        # self.grid[y][x].style = color
+
 
 
     def get_row(self, row_index: int):
-        return self._table[row_index]
+        return self.grid[row_index]
 
-    def add_row(self, row:list) -> None:
-        self._table.append(create_row(row))
 
-    def update_entry(self, row: int, col:str|int, val: str):
+    def update_entry(self, row: int, col:str|int, val: str, color:str=''):
         col_index = self.column_names.index(col) if isinstance(col, str) else col
-        self._table[row][col_index] = val
-
-    def update_row(self, row_idx: int, row: list[Entry]):
-        if not all([isinstance(entry, Entry) for entry in row]):
-            default_color:str = self._table[row_idx][0].color
-            row = create_row(row, default_color)
-        self._table[row_idx] = row
+        if not color:
+            color = self.get_color_at(col_index, row)[0]
+        self.grid[row][col_index] = Text(val, color)
 
     def set_row_color(self, row_idx: int, color: str):
-        for entry in self._table[row_idx]:
-            entry.set_color(color)
+        for x in range(len(self.grid[row_idx])):
+            self.set_color_at(x, row_idx, color)
 
     def highlight_row(self, row_idx, color='yellow'):
-        for idx, row in enumerate(self._table):
+        for idx, row in enumerate(self.grid):
             if idx == row_idx:
                 continue
-            if all([entry.get_color() == color for entry in row]):
+            if all([self.get_color_at(x, idx) == color for x, entry in enumerate(row)]):
                 self.set_row_color(idx, '')
         self.set_row_color(row_idx, color)
         self.highlighted_row = row_idx
 
 
-
-
-    def __len__(self):
-        return len(self._table)
-
-
-
-    def __rich__(self) -> RenderableType:
-        table = Table(title=self.title)
-        for column_name in self.column_names:
-            table.add_column(column_name)
-        for row in self._table:
+    def get_table(self, start=0, up_to=-1):
+        if up_to == -1:
+            up_to = len(self.grid)
+        table = Table()
+        for name in self.column_names:
+            table.add_column(name)
+        for i in range(start, up_to):#self.grid:
+            row = self.grid[i]
             table.add_row(*row)
         return table
 
+
+
+    def get_height(self, console: Console, start=0, up_to=-1):
+        table = self.get_table(start, up_to)
+        lines = console.render_lines(table)
+        return len(lines)
+
+    def get_row_height(self, console: Console, row_idx: int):
+        return self.get_height(console, row_idx, row_idx+1)
+
+
+    # def get_table(self):
+    #     table = Table(
+    #     pass
+
+
+
+    def __len__(self):
+        return len(self.grid)
+
+    def __iter__(self):
+        for row in self.grid:
+            yield row
+
+    def __getitem__(self, idx):
+        if isinstance(idx, int):
+            return self.grid[idx]
+
+        if isinstance(idx, slice):
+            start = idx.start
+            stop = idx.stop if idx.stop else len(self.grid)
+            step = idx.step if idx.step else 1
+            res = []
+            for i in range(start, stop, step):
+                res.append(self.grid[i])
+            return res
+
+        raise IndexError(f'Error, invalid index into ResultTable')
+
+
+
+
+
+    def __rich_console__(self, console: Console, options: ConsoleOptions):
+        table = self.get_table()
+        yield table
+        # lines = console.render_lines(table)
+        # r = table.rows[0]
+        # for line in lines:
+        #     for seg in line:
+        #         yield seg
+        #     yield Segment('\n')
+
+
     def __repr__(self):
-        return str(self.__rich__())
+        s = ''
+        for row in self.grid:
+            s += '    '.join([str(entry) for entry in row])
+        return s
     
     def __str__(self):
-        return self.__repr__()
+        s = ''
+        for row in self.grid:
+            s += '    '.join([str(entry) for entry in row]) + '\n'
+        return s
 
 
-    def table(self) -> RenderableType:
-        return self.__rich__()
+    # def table(self) -> RenderableType:
+    #     return self.__rich_console__()
