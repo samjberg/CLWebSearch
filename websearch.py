@@ -1,417 +1,210 @@
-import os, sys, requests, rich, json
-import keyboard
-from rich import print as rprint
-from rich.console import Console
-from rich.live import Live
-from rich.segment import Segment
-from rich.table import Table
-from rich.style import Style
+import os, sys, requests, keyboard, json
+from keyboard import KeyboardEvent
+from rich import print, inspect
+# from rich import inspect
 from rich.text import Text
-from resulttable import COLOR_DICT, COLOR_NAMES, Entry, ResultTable
-from time import sleep
+from rich.live import Live
+from rich.console import Console, ConsoleOptions, RenderableType
+from linesrenderable import LinesRenderable
 from parsehtml import parse_raw_html
-from scrollable import Scrollable
 from logger import log
-from renderedpage import RenderedPage, PageRow
-
-
-# def generate_table(column_names:list[str], rows=[], **kwargs) -> ResultTable:
-#     table = ResultTable(column_names)
-#     for name in column_names:
-#         table.add_column(name)
-#     for i in range(min(10, len(rows))):
-#         row = rows[i]
-#         rprint(f'row: {row}')
-#         # try:
-#         table.add_row(*row)
-#         # except:
-#         #     rprint(f'Unable to add {row} to table')
-#     return table
-
-
-def remove_color_tags(s: str):
-    if isinstance(s, Entry):
-        entry = s
-        s = entry.text
-        if not s:
-            return entry
-        while s.startswith('['):
-            log(f'in remove_color_tags while loop.  s:{s}')
-            end_idx = s.find(']')
-            if end_idx == -1:
-                return s
-            s = s[end_idx+1:]
-        return s
-    else:
-        log(f'in remove_color_tags, s:{s}')
-        if not s:
-            log(f'in "if not s" block in remove_color_tags.  s:{s}')
-            return s
-        while s.startswith('['):
-            log(f'in remove_color_tags while loop.  s:{s}')
-            end_idx = s.find(']')
-            if end_idx == -1:
-                return s
-            s = s[end_idx+1:]
-        return s
-
-
-
-console = Console()
-with open('page.html', 'rb') as f:
-    html_bytes = f.read()
-    parsed_html = html_bytes.decode(errors='replace')
-    # for line in f.readlines():
-    #     if line.isascii():
-    #         parsed_html += line.decode(
-rendered_html = parse_raw_html(parsed_html)
-# rprint(rendered_html)
-# exit()
-
-page = RenderedPage(parsed_html)
-# scrollable = MyScrollable(page, console)
-# rprint(scrollable)
-# exit()
-
-
-USER_AGENT = 'CLWebSearchAgent/0.1 (sjberg14@gmail.com) Python-requests/2.33.0'
-#screens
-RESLST_SCREEN = 'results_list_screen'
-WEBPAGE_SCREEN = 'webpage_screen'
-
-
-api_key = os.environ.get('BRAVE_API_KEY')
-search_engine = 'brave'
-
-curr_idx = 0
-running = True
-args = sys.argv[1:]
-query : str = args[-1]
-rows = []
-res_url = ''
-# curr_screen = RESLST_SCREEN
-curr_screen = WEBPAGE_SCREEN
-
-
-params = {
-    "q": query
-}
-
-headers = {
-    "Accept": "application/json",
-    "Accept-Encoding": "gzip",
-    "User-Agent": USER_AGENT,
-    "X-Subscription-Token": api_key
-}
-
-# resp = requests.get(req_url, params=params, headers=headers)
-# results = resp.json()
-start_idx = 0
-highlight_color = '[yellow]'
-
-
-# def save_html_file(html_text, fname='page.html'):
-#     with open(fname, 'w') as f:
-#         f.write(html_text)
-
-
-# for i in range(len(results_list)):
-#     result = results_list[i]
-#     if i == curr_idx:
-#         title = highlight_color + result['title']
-#         url   = highlight_color + result['url']
-#         desc  = highlight_color + result['description']
-#     else:
-#         title = result['title']
-#         url = result['url']
-#         desc = result['description']
-#     rows.append([Segment(s) for s in [title, f'[blue]{url}', f'{desc}']])
-#     rows.append([s for s in [title, f'[blue]{url}', f'{desc}']])
-
-
-search_urls_dict = {'brave': 'https://api.search.brave.com/res/v1/web/search?q='}
-req_url = search_urls_dict[search_engine]
-with open('results.json', 'r') as f:
-    results = json.load(f)
-
-results_list : list[dict] = results['web']['results']
-
-for _ in range(10):
-    for result in results_list:
-        rows.append([Text(result['title'], 'yellow'), Text(result['url'], 'blue'), Text(result['description'], 'red')])
-
-# print(f'num results: {len(results_list)}')
-# exit()
-
-table = ResultTable(['Title', 'URL', 'Description'], title=f'Search Results for: {query}', rows=rows)
-# x = int(sys.argv[1])
-# y = int(sys.argv[2])
-
-
-
-
-
-# rprint(table)
-# rprint(table.get_height(console))
-#
-#
-# lines = console.render_lines(table)
-# for line in lines:
-#     for seg in line:
-#         print(Text(seg.text, seg.style), end='')
-#     # rprint(line)
-
-# exit()
-
-
-# scrollable = MyScrollable(table, console)
-# live = Live(scrollable, auto_refresh=True, screen=True)
-
-
+from selectabletable import SelectableTable
 
 
 
 def handle_keypress_j(e):
-    global curr_idx, table, start_idx, scrollable, curr_screen
-    curr_idx += 1
-    # scrollable.scroll_down(1)
-    if curr_screen == RESLST_SCREEN:
-        table.highlight_row(curr_idx)
-        screen_height = os.get_terminal_size()[1]
-        scrollable_height = scrollable.get_height(up_to=curr_idx)
-        log(f'screen_height: {screen_height}, scrollable_height: {scrollable_height}')
-        if (screen_height - scrollable_height) < 3:
-            row_height = table.get_row_height(console, curr_idx)
-            scrollable.scroll(row_height)
-            log(f'scrollable.pos: {scrollable.pos}')
-        for i in range(curr_idx):
-            table.set_row_color(i, 'gray')
+    global scrollable, screen_idx
+    buffer = 5
+    max_height = console.height - buffer
+    if scrollable == table:
+        scrollable_height = scrollable.get_height(scrollable.pos, screen_idx+1)
+        log(f'scrollable_height: {scrollable_height}, max_height: {max_height}')
+        if (scrollable_height+5) > max_height:
+            scrollable.scroll_down(15)
+        else:
+            screen_idx += 1
+        scrollable.move_selection_down(1)
     else:
-        scrollable.scroll(1)
-
-    # if curr_screen == WEBPAGE_SCREEN:
-        # start_idx += 50
-    # for i in range(20):
-    #     rprint(i)
-
+        scrollable.scroll_down(1)
 
 def handle_keypress_k(e):
-    global curr_idx, table, start_idx, scrollable, curr_screen
-    curr_idx -= 1
-    # scrollable.scroll_up(1)
-    if curr_screen == RESLST_SCREEN:
-        table.highlight_row(curr_idx)
-        screen_height = os.get_terminal_size()[1]
-        scrollable_height = scrollable.get_height(up_to=curr_idx)
-        if (screen_height - scrollable_height) < 3:
-            row_height = table.get_row_height(console, curr_idx)
-            scrollable.scroll_up(row_height)
-        for i in range(curr_idx+1, len(table)):
-            table.set_row_color(i, 'gray')
-
+    global scrollable, screen_idx
+    buffer = 5
+    min_height = console.height - buffer
+    if scrollable == table:
+        scrollable_height = scrollable.get_height(scrollable.pos, screen_idx-1)
+        log(f'scrollable_height: {scrollable_height}, max_height: {min_height}')
+        if (scrollable_height-5) < min_height:
+            scrollable.scroll_up(15)
+        else:
+            screen_idx -= 1
+        scrollable.move_selection_up(1)
     else:
         scrollable.scroll_up(1)
 
 
+# def handle_keypress_j(e):
+#     global scrollable, screen_idx, table
+#     #screen_idx is the index ON SCREEN, so literally a number 0-N where N is the number of table rows currently on screen
+#     if scrollable == table:
+#         buffer = 5
+#         c_height = console.height
+#         #full height of scrollable up to curr_idx, INCLUDING all offscreen rows from the start
+#         full_scrollable_height = table.get_height(end=scrollable.curr_idx)
+#         #the height of the portion of scrollable from the start of the screen to curr_idx
+#         screen_start_idx = curr_idx - screen_idx
+#         before_height = table.get_height(screen_start_idx, curr_idx)
+#         #the height of the portion of scrollable from curr_idx to end of screen
+#         after_height = c_height - before_height
+#         if screen_idx > 25:
+#             table.scroll_down(1)
+#     else:
+#         pass
+#
+#
+#
+#
+#
+#
+#
+# def handle_keypress_k(e):
+#     global scrollable, screen_idx
+#     buffer = 5
+#     min_height = console.height - buffer
+#     if scrollable == table:
+#         scrollable_height = scrollable.get_height(scrollable.pos, screen_idx-1)
+#         log(f'scrollable_height: {scrollable_height}, max_height: {min_height}')
+#         if (scrollable_height-5) < min_height:
+#             scrollable.scroll_up(15)
+#         else:
+#             screen_idx -= 1
+#         scrollable.move_selection_up(1)
+#     else:
+#         scrollable.scroll_up(1)
 
 
-def stop_running(e):
+
+
+
+# def handle_keypress_k(e):
+#     global scrollable
+#     scrollable.scroll_up(1)
+
+
+def handle_keypress_q(e):
     global running
     running = False
 
 def handle_keypress_space(e):
-    global table, running, live, alt_live, res_url, curr_screen
+    global scrollable, scrollables, scrollable_idx, live
+    scrollable_idx = (scrollable_idx+1) % 2
+    scrollable = scrollables[scrollable_idx]
+    live.update(scrollable)
 
-    entry = table.grid[curr_idx][1]
-    res_url = table.grid[curr_idx][1]
-    # print(f'url style for row {curr_idx}: {entry.style}')
-    running = False
+def handle_keypress_0(e: KeyboardEvent):
+    line = scrollable.grid[0]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
 
-
-def handle_keypress_enter(e):
-    global table, running, live, scrollable, alt_live, res_url, curr_screen
-    row = table.get_row(curr_idx)
-    log(f'in handle_keypress_enter.  row[1]:{row[1]}')
-    res_url = remove_color_tags(str(row[1]))
-
-    running=False
-    curr_screen = WEBPAGE_SCREEN
-    # log(f'running requests.get on url: {res_url}')
-    # resp = requests.get(res_url)
-    # with open('page.html', 'r') as f:
-    #     rendered_html = f.read()
-    # rendered_html = parse_raw_html(resp.text)
-    # live.renderable = rendered_html
+def handle_keypress_1(e: KeyboardEvent):
+    line = scrollable.grid[1]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
 
 
+def handle_keypress_2(e: KeyboardEvent):
+    line = scrollable.grid[2]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
+
+def handle_keypress_3(e: KeyboardEvent):
+    line = scrollable.grid[3]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
+
+def handle_keypress_4(e: KeyboardEvent):
+    line = scrollable.grid[4]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
+
+def handle_keypress_5(e: KeyboardEvent):
+    line = scrollable.grid[5]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
 
 
-    # resp = requests.get('asdgdasgds')
-    # running = False
-    # rendered_html = parse_raw_html(resp.text)
-    # table._table = table._table[0]
-    # table.add_row([Entry(rendered_html)])
-    # with open('rendered_html.txt', 'w') as f:
-    #     f.write(rendered_html)
-    # # alt_live = live
-    # table._table = [['Page'], [Entry(rendered_html)]]
-    # live = Live(rendered_html)
-    # print(rendered_html)
+def handle_keypress_6(e: KeyboardEvent):
+    line = scrollable.grid[6]
+    log(f'{line[0].style}, {line[1].style}, {line[2].style}')
+
 
 
 keyboard.on_press_key('j', handle_keypress_j, True)
 keyboard.on_press_key('k', handle_keypress_k, True)
-keyboard.on_press_key('q', stop_running, True)
+keyboard.on_press_key('q', handle_keypress_q, True)
 keyboard.on_press_key('space', handle_keypress_space, True)
-keyboard.on_press_key('enter', handle_keypress_enter, True)
+# keyboard.on_press_key('0', handle_keypress_0, True)
+# keyboard.on_press_key('1', handle_keypress_1, True)
+# keyboard.on_press_key('2', handle_keypress_2, True)
+# keyboard.on_press_key('3', handle_keypress_3, True)
+# keyboard.on_press_key('4', handle_keypress_4, True)
+# keyboard.on_press_key('5', handle_keypress_5, True)
+# keyboard.on_press_key('6', handle_keypress_6, True)
+# keyboard.on_press(handle_keypress, True)
+# keyboard.on_press_key('enter', handle_keypress_enter, True)
 
 
-
-
-# scrollable = Scrollable(table)
-# scrollable = Scrollable(table)
-# table_live = Live(table_scrollable)
-
-# scrollable = Scrollable(page)
-# live = Live(scrollable, auto_refresh=True, refresh_per_second=4)
-# term_height = os.get_terminal_size()[1]
-# running = True
-# with live:
-#     while running:
-#         live.update(scrollable, refresh=True)
-# exit()
-
-
-
+x = 5
+curr_idx = 0
+screen_idx = 0
 running = True
 
-# curl "https://api.search.brave.com/res/v1/web/search?q=artificial+intelligence" \
-#   -H "X-Subscription-Token: YOUR_API_KEY"
-
 if __name__ == '__main__':
-    max_entries = 20
-    alt_live = None
+    with open('./results.json', 'r') as f:
+        results_dict = json.load(f)
+    results_list : list[dict] = results_dict['web']['results']
+    rows = [[Text('Title'), Text('URL'), Text('Description')]]
+    for _ in range(10):
+        for _ in range(10):
+            for result in results_list:
+                rows.append([Text(result['title'], 'yellow'), Text(result['url'], 'blue'), Text(result['description'], 'red')])
 
-    scrollable = Scrollable(table)
-    live = Live(scrollable, auto_refresh=True, refresh_per_second=4)
-    term_height = os.get_terminal_size()[1]
-    running = True
+
+    table = SelectableTable(rows)
+    #
+    # for line in table.grid:
+    #     print(type(line[0][1]))
+    # exit()
+    #
+
+
+    # table = LinesRenderable(rows, as_table=True)
+
+
+
+    with open('page.html', 'rb') as f:
+        text_bytes = f.read()
+        raw_html = text_bytes.decode(errors='replace')
+
+    parsed_html = parse_raw_html(raw_html)
+    page_lines = parsed_html.splitlines()
+    page = LinesRenderable(page_lines, scroll_mult=5)
+
+
+    scrollables = [table, page]
+    scrollable_idx = 0
+    scrollable = scrollables[scrollable_idx]
+
+    for i in range(10):
+        scrollable.set_row_color(i, 'green')
+
+
+
+    console = Console()
+
+    i = 0
+    live = Live(scrollable, console=console, screen=True, auto_refresh=True, refresh_per_second=4)
     with live:
         while running:
             live.update(scrollable, refresh=True)
-    # exit()
-
-
-
-    # resp = requests.get(req_url, params=params, headers=headers)
-    # results : dict = resp.json()
-    
-    # if results:
-    #     with open('results.json', 'w') as f:
-    #         json.dump(results, f)
-    #
-    # if not results.get('web', {}).get('results'):
-    #     rprint('Error: no results returned.  printing full json:')
-    #     rprint(results)
-    #     exit()
-
-
-    
-
-    # table = generate_table(['Title', 'URL', 'Description'], rows, show_lines=False)
-    
-
-    # rprint(table.table())
-    # exit()
-
-    
-    # console.control()
-
-
-
-    # exit()
-
-    # live = Live(table.table(), refresh_per_second=4)
-    # console.set_live(live)
-    #
-    # live.start(True)
-
-
-
-    # with Live(table.table(), auto_refresh=True, screen=True) as live:
-    # print(type(scrollable))
-    # exit()
-    # with live:
-    #     while running:
-    #         # print(type(scrollable))
-    #         table.title=str(curr_idx)
-    #         live.update(scrollable, refresh=True)
-    #         # sleep(0.01)
-    #         # live.refresh()
-    #             # live.console.clear_live()
-    # log('Reached the end of the with live block')
-
-
-    #so fucking dumb.  I spent like 15 minutes trying to track down this error.
-    #It turns out that it's literally just that... like because the key handling is being done separately, and asynchronously
-    #the problem was that even though res_url was being set correctly, it was not being set until after the requests.get line
-    #executed.  So.... we sleep for 0.1 seconds to solve that problem.  What an amazing solution lmao, so well thought out.
-    sleep(0.1)
-    # rprint(live.renderable)
-    req_headers = {"User-Agent": USER_AGENT}
-    curr_screen = WEBPAGE_SCREEN
-
-    running = True
-
-    # parsed_html = ''
-
-    # print(f'res_url: {res_url}')
-    # exit()
-
-    # resp = requests.get(res_url, headers=req_headers)
-    # rendered_html = parse_raw_html(resp.text)
-    # # html_grid = [[Text(word) for word in line.split(' ')] for line in rendered_html.split('\n')]
-    # page = RenderedPage(rendered_html)
-    # scrollable = Scrollable(rendered_html, live)
-    # live = Live(scrollable, auto_refresh=False, screen=True)
-    # if (curr_screen == WEBPAGE_SCREEN):
-
-
-
-    # with open('page.html', 'rb') as f:
-    #     html_bytes = f.read()
-    #     parsed_html = html_bytes.decode(errors='replace')
-        # for line in f.readlines():
-        #     if line.isascii():
-        #         parsed_html += line.decode(
-    # rendered_html = parse_raw_html(parsed_html)
-    # page = RenderedPage(parsed_html)
-    # lines = [Segment(line) for line in rendered_html.splitlines(keepends=True)]
-    # live = Live(scrollable, auto_refresh=True, refresh_per_second=4)
-    # term_height = os.get_terminal_size()[1]
-    #
-    # with live:
-    #     while running:
-    #         live.update(scrollable, refresh=True)
-    #
-
-    scrollable = Scrollable(page)
-    live = Live(scrollable, auto_refresh=True, refresh_per_second=4)
-    term_height = os.get_terminal_size()[1]
-    running = True
-    with live:
-        while running:
-            live.update(scrollable, refresh=True)
-    exit()
-
-
-
-
-
-
-
-
-
+            # log(f'{i}', end = ' ')
+            # if i % 100 == 0:
+            #     log('\n')
+            # i += 1
 
 
 
