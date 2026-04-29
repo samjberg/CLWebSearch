@@ -152,10 +152,41 @@ x = 5
 curr_idx = 0
 screen_idx = 0
 running = True
+api_key = os.environ.get('BRAVE_API_KEY')
+USER_AGENT = 'CLWebSearchAgent/0.1 (sjberg14@gmail.com) Python-requests/2.33.0'
+search_url = 'https://api.search.brave.com/res/v1/web/search?q='
+query = sys.argv[-1]
+
+
+
+headers = {
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip",
+    "User-Agent": USER_AGENT,
+    "X-Subscription-Token": api_key
+}
 
 if __name__ == '__main__':
-    with open('./results.json', 'r') as f:
-        results_dict = json.load(f)
+
+    offline_mode = False
+
+    #load results dict.  If no argument, load from results.json, otherwise
+    if len(sys.argv) >= 2:
+        #merge all arguments into a single query string, so user doesnt have to use quotes for searches with spaces
+        #i definitely might change how this works later
+        query = ' '.join(sys.argv[1:])
+        print(query)
+        params = {
+            "q": query
+        }
+        resp = requests.get(search_url, params=params, headers=headers)
+        results_dict = resp.json()
+    else:
+        offline_mode = True
+        with open('./results.json', 'r') as f:
+            results_dict = json.load(f)
+
+
     results_list : list[dict] = results_dict['web']['results']
     rows = [[Text('Title'), Text('URL'), Text('Description')]]
     for _ in range(10):

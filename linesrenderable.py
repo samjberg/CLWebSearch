@@ -144,7 +144,7 @@ class LinesRenderable(Scrollable):
                         if not seg.style:
                             style = None
                         else:
-                            style: Style = seg.style if isinstance(seg.style, Style) else Style(color=seg.style)
+                            style = seg.style if isinstance(seg.style, Style) else Style(color=seg.style)
                         new_seg = Segment(text, style)
                         row.append(new_seg)
                         # if isinstance(seg.style, Style) | isinstance(seg.style, str):
